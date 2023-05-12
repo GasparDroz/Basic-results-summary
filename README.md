@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [You can see my solution of the challenge here](https://www.frontendmentor.io/solutions/simple-and-responsive-interface-with-css-flexbox-1_kASyZt5k)
+- Live Site URL: [Or you can see this on a live site](https://interfaz-pearl.vercel.app/)
 
 ### Built with
 
