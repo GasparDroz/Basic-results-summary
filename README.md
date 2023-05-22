@@ -6,7 +6,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 This is my first project and i am applying css flexbox
 ## Table of contents
   - [The challenge](#the-challenge)
-
   - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -28,7 +27,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Flexbox
+- Flexbox and grid
 - Mobile-first workflow
 
 ### Useful resources
